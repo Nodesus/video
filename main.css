@@ -582,7 +582,7 @@ img {
     display: flex;
     flex-direction: column;
     padding-bottom: 27px;
-    background: #ffffff url(/img/background-imgs/top-line.png) center top no-repeat;
+    background: #ffffff url(img/background-imgs/top-line.png) center top no-repeat;
 }
 
 .container__top-line {
